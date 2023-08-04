@@ -74,7 +74,7 @@ p.history{
     color: #FFFFFF;
 }
 
-a{
+.btn{
     display: inline-flex;
     
     width: 175px;
@@ -97,7 +97,17 @@ a{
     width: 1150px;
    }
 
-   .item__header{
+.item__title{
+    font-size: 30px;
+    letter-spacing: -0.9px;
+    line-height: 40.98px    
+   }
 
-    
+.item__btn{
+    color:#AD1818;
+    font-size: 20px;
+    line-height: 27.32px;
+    letter-spacing: -0.6px;
+    text-decoration: none;
+
    }
