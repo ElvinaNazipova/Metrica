@@ -123,19 +123,21 @@ p.history{
 
    }
 
-   .base__btn{
+   .base__btn {
+    display: block;
     width: 1150px;
     height: 153px;
-   }
-
-    .base__btn_style{
-color:#AD1818;
+    border-radius: 5px;
+    border: 1px solid #AD1818;
+    color: #AD1818;
     text-align: center;
-    
-  
     font-size: 30px;
-    
-    line-height: 41px;
+    line-height: 153px;
     letter-spacing: -0.9px;
 
+   }
+
+   .base__btn:hover{
+    background-color: #AD1818;
+    color: #FFFFFF;
    }
