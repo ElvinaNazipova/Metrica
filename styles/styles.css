@@ -11,6 +11,7 @@ body{
     width: 1400px;
     margin: 0 auto;
     padding: 125px;
+    padding-bottom: 150px;
 
     background: #FFF;
     
@@ -125,6 +126,7 @@ p.history{
 
    
    .base__btn {
+    width: 100%;
     display: block;
     border-radius: 5px;
     border: 1px solid #AD1818;
@@ -139,4 +141,19 @@ p.history{
    .base__btn:hover{
     background-color: #AD1818;
     color: #FFFFFF;
+   }
+
+
+   .container__black{
+    width: 1400px;
+    height: 1844px;
+    background-color: #121212;
+
+    padding-top: 151px;
+   }
+
+
+   .item__header__black{
+    color: #FFF;
+   
    }
