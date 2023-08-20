@@ -56,8 +56,10 @@ p.history{
 }
 
 .interior{
+    position: relative;
+    box-sizing: border-box;
     width: 1150px;
-    padding: 379px 680px 40px 40px ;
+    height: 500px;
     margin-bottom: 150px;
 
     background-image: url(../resources/Rectangle\ 1.png);
@@ -66,6 +68,9 @@ p.history{
 }
 
 .img-text {
+    position: absolute;
+    bottom: 40px;
+    left: 40px;
     width: 430px;
 
     font-size: 20px;
