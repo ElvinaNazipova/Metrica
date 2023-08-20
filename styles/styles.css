@@ -130,7 +130,7 @@ p.history{
    }
 
    
-   .base__btn {
+.base__btn {
     width: 100%;
     display: block;
     border-radius: 5px;
@@ -143,13 +143,13 @@ p.history{
 
    }
 
-   .base__btn:hover{
+.base__btn:hover{
     background-color: #AD1818;
     color: #FFFFFF;
    }
 
 
-   .container__black{
+.container__black{
     width: 1400px;
     height: 1844px;
     background-color: #121212;
@@ -158,12 +158,12 @@ p.history{
    }
 
 
-   .item__header__black{
+.item__header__black{
     color: #FFFFFF;   
     margin-bottom: 34px;
    }
 
-   .price_list{
+.price_list{
     margin-bottom: 60px;
    }
 
