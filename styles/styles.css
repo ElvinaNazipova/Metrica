@@ -7,7 +7,7 @@ body{
     
 }
 
-.container{
+.section{
     width: 1400px;
     margin: 0 auto;
     padding: 125px;
@@ -131,8 +131,8 @@ p.history{
 
    
 .base__btn {
-    width: 100%;
     display: block;
+    width: 100%;
     border-radius: 5px;
     border: 1px solid #AD1818;
     color: #AD1818;
@@ -150,7 +150,7 @@ p.history{
    }
 
 
-.container__black{
+.section__black{
     width: 1400px;
     height: 1844px;
     background-color: #121212;
