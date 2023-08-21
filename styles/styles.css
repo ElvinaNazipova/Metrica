@@ -112,7 +112,7 @@ p.history{
     margin-bottom: 15px;
    }
 
-.item__title{
+   .item__title{
     margin-bottom: 15px;
        
     font-size: 30px;
@@ -120,7 +120,7 @@ p.history{
     line-height: 40.98px    
    }
 
-.item__btn{
+   .item__btn{
     color:#AD1818;
     font-size: 20px;
     line-height: 27.32px;
@@ -140,6 +140,7 @@ p.history{
     font-size: 30px;
     line-height: 153px;
     letter-spacing: -0.9px;
+    cursor: pointer;
 
    }
 
