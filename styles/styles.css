@@ -29,7 +29,6 @@ h1{
     letter-spacing: -1.8px;
 
     color: #121212;
-
 }
 
 h2{
@@ -39,7 +38,9 @@ h2{
     line-height: 25px;
     letter-spacing: -0.54px;
 
-    color: #121212;  
+    color: #121212; 
+    
+    text-transform: uppercase;
 
 }
 
