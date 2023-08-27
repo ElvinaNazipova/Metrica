@@ -10,17 +10,12 @@ body{
 .container{
     width: 1400px;
     margin: 0 auto;
-    padding: 125px;
-    padding-bottom: 150px;
-
     background: #FFF;
-    
     box-sizing: border-box;
-    
-}
+    }
 
 section{
-    margin-bottom: 150px;
+    padding: 150px 125px 0px 125px;
 }
 
 section:first-child{
@@ -50,6 +45,12 @@ h2{
     
     text-transform: uppercase;
 
+}
+
+h3{
+    font-size: 30px;
+    line-height: 41px;
+    letter-spacing: -0,9px;
 }
 
 p.history{
@@ -157,7 +158,7 @@ p.history{
    }
 
 
-.container__black{
+.section-black{
     width: 1400px;
     height: 1844px;
     background-color: #121212;
@@ -166,12 +167,13 @@ p.history{
    }
 
 
-.item__header__black{
+.section-black h2{
     color: #FFFFFF;   
     margin-bottom: 34px;
    }
 
-.price_list{
+.section-black h3{
+    color: #FFFFFF;  
     margin-bottom: 60px;
    }
 
@@ -182,8 +184,5 @@ p.history{
 }
 
 
-.item__title_color{
-    color: #FFF;
-}
 
 
